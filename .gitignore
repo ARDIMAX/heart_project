@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# PyCharm
+.idea/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dependency files (если не хочешь публиковать)
+*.iml
+out
+gen
+data/heart_test.csv
+data/heart_train.csv
+data/test.py
+
+# System files
+.DS_Store
