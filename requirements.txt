@@ -1,0 +1,30 @@
+# Scientific computing
+numpy>=1.23.5,<2.0
+scipy>=1.7.0,<1.14.0
+
+# Base requirements
+fastapi==0.116.1
+uvicorn==0.35.0
+pandas==2.3.1
+scikit-learn==1.7.1
+joblib==1.5.1
+pytest==6.2.5
+httpx>=0.25.0
+python-multipart==0.0.20
+
+# Data visualization
+matplotlib==3.10.0
+seaborn==0.13.2
+missingno==0.5.2
+
+# ML packages
+catboost==1.2.8
+gensim==4.3.3
+
+# Type hints
+pandas-stubs==2.2.3.250527
+types-pytz>=2022.1.1
+
+# Anaconda extensions dependencies
+anaconda-cloud-auth>=0.7.1
+
