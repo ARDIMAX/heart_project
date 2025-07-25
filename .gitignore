@@ -5,6 +5,8 @@ __pycache__/
 
 # PyCharm
 .idea/
+.idea
+.idea/workspace.xml
 
 # Virtual environments
 venv/
@@ -18,9 +20,11 @@ env/
 *.iml
 out
 gen
-data/heart_test.csv
-data/heart_train.csv
-data/test.py
+#data/heart_test.csv
+#data/heart_train.csv
+#data/test.py
+anaconda_projects
+catboost_info
 
 # System files
 .DS_Store

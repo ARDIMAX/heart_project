@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="102a5b13-d205-42d5-8682-146a652a91a5" name="Changes" comment="Выбрал модель и сделал прогноз с выгрузкой в файл">
-      <change afterPath="$PROJECT_DIR$/data/heart_test.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/heart_train.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/predictions.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/CatBoost_pipeline.joblib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/GradientBoosting_pipeline.joblib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/KNN_pipeline.joblib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/LogisticRegression_pipeline.joblib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/RandomForest_pipeline.joblib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/SVC_pipeline.joblib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project_new.ipynb" afterDir="false" />
+    <list default="true" id="102a5b13-d205-42d5-8682-146a652a91a5" name="Changes" comment="Настроил модели, выбрал лучшую.">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/project.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +106,8 @@
       <workItem from="1753364977672" duration="1978000" />
       <workItem from="1753367061452" duration="1477000" />
       <workItem from="1753429918960" duration="5381000" />
-      <workItem from="1753436117860" duration="6895000" />
+      <workItem from="1753436117860" duration="6965000" />
+      <workItem from="1753454633706" duration="297000" />
     </task>
     <task id="LOCAL-00001" summary="Создали файл project.ipynb">
       <option name="closed" value="true" />
@@ -142,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753435950821</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Настроил модели, выбрал лучшую.">
+      <option name="closed" value="true" />
+      <created>1753443081524</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1753443081524</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,6 +150,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Создали файл project.ipynb" />
     <MESSAGE value="Выбрал модель и сделал прогноз с выгрузкой в файл" />
-    <option name="LAST_COMMIT_MESSAGE" value="Выбрал модель и сделал прогноз с выгрузкой в файл" />
+    <MESSAGE value="Настроил модели, выбрал лучшую." />
+    <option name="LAST_COMMIT_MESSAGE" value="Настроил модели, выбрал лучшую." />
   </component>
 </project>
