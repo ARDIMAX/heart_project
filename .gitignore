@@ -25,6 +25,7 @@ gen
 #data/test.py
 anaconda_projects
 catboost_info
+project_new.ipynb
 
 # System files
 .DS_Store
